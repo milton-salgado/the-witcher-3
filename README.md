@@ -22,7 +22,7 @@ Uma "landing page" do jogo "The Witcher 3: Wild Hunt".
 ## 📋 Descrição
 
 Este é um projeto de uma "landing page" do jogo "The Witcher 3: Wild Hunt".
-Esse projeto foi disponibilizado na aula prática de flexbox do curso "Vai na Web", e tinha como proposta a utilização do flexbox como ferramenta de espaçamento dos elementos de uma página em HTML. O modelo a ser seguido foi apresentado na plataforma de design "Adobe XD". 
+Esse projeto foi disponibilizado na aula prática de flexbox do módulo 01 do curso de front-end do "Vai na Web", e tinha como proposta a utilização do flexbox como ferramenta de espaçamento dos elementos de uma página em HTML. O modelo a ser seguido foi apresentado na plataforma de design "Adobe XD". 
 
 ### 🚀 Funcionalidades
 
@@ -38,7 +38,9 @@ As funcionalidades disponíveis para os usuários estão listadas abaixo:
 
 ### 📸 Prévia
 
-![Desktop Design](./img/desktop-index.png)
+<div align="center">
+  <img src="./img/desktop-index.png">
+</div>
 
 ## ⚙️ Construção
 
